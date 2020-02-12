@@ -4,7 +4,7 @@ module.exports = {
     postgresPort: 5432,
     postgresDatabase: 'todo',
     postgresUser: 'todo',
-    postgresPassword: 'todo1234',
+    postgresPassword: 'todo',
     redisHost: 'localhost',
     redisPort: 6379,
     elasticHost: 'localhost',
